@@ -1,0 +1,88 @@
+{
+    "navbar":{
+        "title":"kopi-ku",
+        "list":[
+            {
+                "name":"home",
+                "link":"#home"
+            },
+            {
+                "name":"about us ",
+                "link":"#aboutus"
+            },
+            {
+                "name": "blog",
+                "link": "#blog"
+            },
+            {
+                "name":"menu",
+                "link":"#menu"
+            },
+            {
+                "name":"news",
+                "link": "#news"
+            },
+            {
+                "name":"contact",
+                "link":"#contact"
+            }
+
+
+        ]
+    },
+    "home":{
+        "title":"restaurant's",
+        "image":"images/header.jpg"
+    },
+    "about":{
+        "title":"about us",
+        "deskripsi":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim "
+    },
+    "blog":{
+        "title":"blog",
+        "deskripsi":"latest from the blog",
+        "list":[
+            {
+                "img":"images/blog/blog-img-1.jpg",
+                "title":"homestyle chicken pot pie",
+                "deskripsi":"Prepared in true New England fash-ion. Tender all-white meat chicken simmered..."
+            }
+        ]
+
+    },
+    "menu":{
+        "title":"menu",
+        "deskripsi":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco "
+    },
+    "contactus":{
+        "title":"our contact us",
+        "button":[
+            {
+                "title":"sign up for email alert",
+                "send":"send your message"
+            }
+        ]
+    },
+    "footer":{
+        "contact info":[
+            {
+                "icon":"phone",
+                "title":"telefone",
+                "deskripsi":"(000) 123 456 78- (000) 123 4567 89"
+            },
+            {
+                "icon":"pin",
+                "title":"address",
+                "deskripsi":"2046 Blue Spruce Lane Laurel Canada"
+            },
+            {
+                "icon":"envelop",
+                "title":"email",
+                "deskripsi":"rest@gmail.com - rest@mail.ru"
+            }
+        ]
+    }
+
+    
+
+}
