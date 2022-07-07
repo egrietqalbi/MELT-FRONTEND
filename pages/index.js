@@ -437,7 +437,7 @@ export default function Home(props) {
   
 }
  export async function getServerSideProps(context){
-   const localhink ="http://localhost:5000/"
+   const localhink ="https://restoran00.herokuapp.com/"
    const onelineLink=""
  const dataRespone=await fetch(localhink);
   const dataJson=await dataRespone.json();
